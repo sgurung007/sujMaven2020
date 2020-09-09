@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="surajSuit">
+	<test name="surajTest">
+		<classes>
+			<class name="com.gurung.surajMaven1.LoginPageTest" />
+			<class name="com.gurung.surajMaven1.HomePageTest" />
+		</classes>
+	</test> <!--surajTest -->
+</suite> <!-- surajSuit -->
