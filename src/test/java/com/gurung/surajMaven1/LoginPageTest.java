@@ -43,5 +43,11 @@ public class LoginPageTest {
 	public void Test9() {
 		System.out.println("printing: Test9");
 	}
+	
+	@Test
+	public void Test10() {
+		System.out.println("printing: Test10");
+	}
+
 
 }
